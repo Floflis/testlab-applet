@@ -1,0 +1,1 @@
+applet.js and testlab.css files were made by ChatGPT in the "AIDaniella" chateroom from Daniella Mesquita's prompt
